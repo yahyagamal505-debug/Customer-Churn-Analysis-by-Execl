@@ -14,7 +14,7 @@ This repository contains a **Customer Churn Analysis Dashboard** that provides i
 ---
 
 ## 📷 Dashboard Preview
-![Customer Churn Dashboard](./dashboard.png)
+![Customer Churn Dashboard](DASHBOARD.png)
 
 ---
 
